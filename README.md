@@ -9,3 +9,6 @@ Pueden hacer lo que quieran...
 ### Actualizado por jaime r desde git hub
 
 ##nueva edicion sin conflicto
+
+
+### Estos Cambios desde visual studio
