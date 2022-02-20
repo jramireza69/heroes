@@ -11,4 +11,4 @@ Pueden hacer lo que quieran...
 ##nueva edicion sin conflicto
 
 
-### Estos Cambios desde visual studio - edito el conflicto desde git hub add line for git hub
+### Estos Cambios desde visual studio edit por git hub
